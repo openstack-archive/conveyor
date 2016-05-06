@@ -1,0 +1,4 @@
+conveyor.egg-info
+.tox
+.pyc
+.testrepository
