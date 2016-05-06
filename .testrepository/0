@@ -1,0 +1,13 @@
+time: 2016-05-06 03:48:44.155219Z
+tags: worker-0
+test: conveyor.tests.test_conveyor.TestConveyor.test_something
+time: 2016-05-06 03:48:44.156198Z
+successful: conveyor.tests.test_conveyor.TestConveyor.test_something [ multipart
+Content-Type: text/plain;charset="utf8"
+stderr
+0
+Content-Type: text/plain;charset="utf8"
+stdout
+0
+]
+tags: -worker-0

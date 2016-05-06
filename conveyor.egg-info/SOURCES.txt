@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.cfg
+conveyor/__init__.py
+conveyor.egg-info/PKG-INFO
+conveyor.egg-info/SOURCES.txt
+conveyor.egg-info/dependency_links.txt
+conveyor.egg-info/not-zip-safe
+conveyor.egg-info/pbr.json
+conveyor.egg-info/requires.txt
+conveyor.egg-info/top_level.txt
+conveyor/tests/__init__.py
+conveyor/tests/base.py
+conveyor/tests/test_conveyor.py
